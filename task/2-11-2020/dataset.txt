@@ -1,0 +1,7 @@
+CÁC NGUỒN DATASET TIẾNG VIỆT
+
+Nguồn 1:
+1. InfoRe Technology 1 (25 hours)
+2. InfoRe Technology 2 (415 hours)
+
+Nguồn 2: https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset,  (31.5 hours)
