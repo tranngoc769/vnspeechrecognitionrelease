@@ -1,0 +1,5 @@
+- Input: 
+pathWav = "mydata" # đường dẫn tới thư mục chứa file wav cần kiểm tra
+outPath = "outwav" # 
+
+-Output: số file trong thư mục pathWav có sample_rate khác 16000Hz

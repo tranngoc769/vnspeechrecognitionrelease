@@ -1,7 +1,0 @@
-- Input: 
-pathWav = "/datasetIR/wav/"   #Đường dẫn tới thư mục chứa file wav
-pathTxt = "/datasetIR/txt/"   #Đường dẫn tới thư mục chứa transcript (.txt)
-pathCSVout = "/datasetIR/40train.csv"  #Đường dẫn tới file csv output
-
-pathCSVErrout = "/datasetIR/error_train.csv"  #Đường dẫn chứa tới file csv lỗi (chứa file nan - bị rỗng)
-pathNan = "/datasetIR/nantest/"                 #Thư mục chứa file wav bị lỗi (file nan)
